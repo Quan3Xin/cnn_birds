@@ -1,3 +1,3 @@
-# CNN with the brids dataset from kiggle dataset .
+# CNN's. the brids dataset from kiggle dataset .
 ## Using TF framework...
 ### acc is 0.69
